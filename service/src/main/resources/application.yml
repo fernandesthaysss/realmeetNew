@@ -25,4 +25,4 @@ spring:
 logging:
   level:
     org.springframework: ERROR
-    org.flywaydb: INFO
+    org.flywaydb: ERROR
