@@ -13,12 +13,12 @@
 
     <properties>
         <java.version>11</java.version>
-        <testcontainers.version>1.15.2</testcontainers.version>
-        <mapstruct.version>1.4.2.Final</mapstruct.version>
-        <jackson-databind-nullable.version>0.2.1</jackson-databind-nullable.version>
+        <testcontainers.version>1.17.1</testcontainers.version>
+        <mapstruct.version>1.5.0.RC1</mapstruct.version>
+        <jackson-databind-nullable.version>0.2.2</jackson-databind-nullable.version>
         <springdoc-openapi-ui.version>1.5.4</springdoc-openapi-ui.version>
-        <mockito-junit-jupiter.version>3.7.7</mockito-junit-jupiter.version>
-        <prettier-maven-plugin.version>0.10</prettier-maven-plugin.version>
+        <mockito-junit-jupiter.version>4.5.1</mockito-junit-jupiter.version>
+        <prettier-maven-plugin.version>0.17</prettier-maven-plugin.version>
     </properties>
 
     <dependencies>
